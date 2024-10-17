@@ -76,6 +76,9 @@
       },
       "door_auto_lock_paused": {
         "name": "Auto-lock paused"
+      },
+      "success": {
+        "name": "Success"
       }
     },
     "sensor": {
@@ -87,9 +90,6 @@
       },
       "light_level": {
         "name": "Light level"
-      },
-      "attempt_state": {
-        "name": "Attempt state"
       }
     },
     "cover": {
